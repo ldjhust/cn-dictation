@@ -1,5 +1,193 @@
 export default [
   {
+    "name": "一年级（上册）",
+    "grade": "1",
+    "term": "a",
+    "fileName": "1.a.txt",
+    "klasses": [
+      {
+        "title": "课文 ① 天地人",
+        "newChars": [
+          {
+            "newChar": "天",
+            "words": "天空、天气",
+            "v": "/v/0757ee5ffcfae15eeaaad9c3f99d7e7c.mp3"
+          },
+          {
+            "newChar": "地",
+            "words": "大地、地上",
+            "v": "/v/3d2b880e79537d0c77daa1a611549b81.mp3"
+          },
+          {
+            "newChar": "人",
+            "words": "人们、友人",
+            "v": "/v/c02aefc8d7b75b9e10003c77adf159d0.mp3"
+          },
+          {
+            "newChar": "你",
+            "words": "你们、你好",
+            "v": "/v/073abdf3ec0142584c02505e267fbdb2.mp3"
+          },
+          {
+            "newChar": "我",
+            "words": "我们、我家",
+            "v": "/v/843187a41cf0bc65e54d3ae49e7d0b5b.mp3"
+          },
+          {
+            "newChar": "他",
+            "words": "他们、他的",
+            "v": "/v/3d2c7748d21ecd12dd630262ef538157.mp3"
+          }
+        ]
+      },
+      {
+        "title": "课文 ② 金木水火土",
+        "newChars": [
+          {
+            "newChar": "金",
+            "words": "金色、金光",
+            "v": "/v/926708eb17b9de86efff797cf15838e4.mp3"
+          },
+          {
+            "newChar": "木",
+            "words": "木头、树木",
+            "v": "/v/c1da3b5c076e6e5e816f294c80fbbb93.mp3"
+          },
+          {
+            "newChar": "水",
+            "words": "水里、海水",
+            "v": "/v/9e75b59b3909cfa04f28bcfb29d1c6e4.mp3"
+          },
+          {
+            "newChar": "火",
+            "words": "大火、火苗",
+            "v": "/v/d92f54db2d98e0d2db6eebcd58bb4768.mp3"
+          },
+          {
+            "newChar": "土",
+            "words": "土地、土壤",
+            "v": "/v/06d1c190cec0ff5bc79a06dd646cba94.mp3"
+          }
+        ]
+      },
+      {
+        "title": "课文 ③ 口耳目手足",
+        "newChars": [
+          {
+            "newChar": "口",
+            "words": "口腔、口里",
+            "v": "/v/8b2ec7823443b0ba7e794e234a1b84a2.mp3"
+          },
+          {
+            "newChar": "耳",
+            "words": "耳朵、耳屎",
+            "v": "/v/5896f16a998f5d75f976c8e2d104f5c9.mp3"
+          },
+          {
+            "newChar": "目",
+            "words": "目光、目视",
+            "v": "/v/80c325b9967f3ad508a1be4d81ebe39e.mp3"
+          },
+          {
+            "newChar": "手",
+            "words": "手心、手背、手里",
+            "v": "/v/76e22163950de38e2d74d196c1ef698a.mp3"
+          },
+          {
+            "newChar": "足",
+            "words": "足够、足球",
+            "v": "/v/f30a5746755487ab82bd1af1b322fd45.mp3"
+          }
+        ]
+      },
+      {
+        "title": "课文 ④ 日月水火山石田禾",
+        "newChars": [
+          {
+            "newChar": "日",
+            "words": "日记、日出",
+            "v": "/v/4ba1a76b006425c5ece867c874a806d0.mp3"
+          },
+          {
+            "newChar": "月",
+            "words": "月亮、月光",
+            "v": "/v/957c8a3b071ca16708219b6e519e2363.mp3"
+          },
+          {
+            "newChar": "水",
+            "words": "海水、水里",
+            "v": "/v/d976f05f6201856d9136e6cfec75ec9b.mp3"
+          },
+          {
+            "newChar": "火",
+            "words": "火苗、火星",
+            "v": "/v/9db5b5cf0353a14946fdf472e5a4d601.mp3"
+          },
+          {
+            "newChar": "山",
+            "words": "爬山、山顶",
+            "v": "/v/ae79aa34405008dbb1bb16cf1784f9c9.mp3"
+          },
+          {
+            "newChar": "石",
+            "words": "石头、石子",
+            "v": "/v/9b30e8408fbc68bc3a9991cafe8c87a3.mp3"
+          },
+          {
+            "newChar": "田",
+            "words": "田里、稻田",
+            "v": "/v/85f19f4d31f5fcfcfb9a9eb1e1b0a039.mp3"
+          },
+          {
+            "newChar": "禾",
+            "words": "禾苗",
+            "v": "/v/56b971538bae8eba709d2689dde4d642.mp3"
+          }
+        ]
+      },
+      {
+        "title": "课文 ⑤ 对韵歌",
+        "newChars": [
+          {
+            "newChar": "对",
+            "words": "对联、答对",
+            "v": "/v/f05422559dd39d058f41e7725a912c07.mp3"
+          },
+          {
+            "newChar": "云",
+            "words": "白云、云朵、乌云",
+            "v": "/v/d4e885f5c4d1d04b371b9fdefacbe4f6.mp3"
+          },
+          {
+            "newChar": "雨",
+            "words": "下雨、雨点、暴风雨",
+            "v": "/v/9fd0f19e36dae4df19f27e1d21fae9d8.mp3"
+          },
+          {
+            "newChar": "风",
+            "words": "台风、龙卷风",
+            "v": "/v/6440369a746a38d582db9f85f2a82f85.mp3"
+          },
+          {
+            "newChar": "花",
+            "words": "花朵、菊花、玫瑰花",
+            "v": "/v/a3eb45000da707ece522c0872f31c9f0.mp3"
+          },
+          {
+            "newChar": "鸟",
+            "words": "小鸟、鸟儿",
+            "v": "/v/a30f5e40ec28d408c3a2b4a2b3f52edc.mp3"
+          },
+          {
+            "newChar": "虫",
+            "words": "虫子、毛毛虫",
+            "v": "/v/517c8adcab0a2030809737ff8575b589.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "二年级（上册）",
     "grade": "2",
     "term": "a",
