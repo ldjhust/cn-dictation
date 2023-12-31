@@ -184,6 +184,1086 @@ export default [
             "v": "/v/517c8adcab0a2030809737ff8575b589.mp3"
           }
         ]
+      },
+      {
+        "title": "语文园地一",
+        "newChars": [
+          {
+            "newChar": "六",
+            "words": "六个",
+            "v": "/v/c16c6042a334ce62f9f9a5722b3646fe.mp3"
+          },
+          {
+            "newChar": "七",
+            "words": "七个",
+            "v": "/v/d33edd977b1817d672170d2076dbd4fa.mp3"
+          },
+          {
+            "newChar": "八",
+            "words": "八个",
+            "v": "/v/a47a59ea93731d8f95c47ba11ceeb0a4.mp3"
+          },
+          {
+            "newChar": "九",
+            "words": "九个",
+            "v": "/v/aca9479ab8d8cdfb4591791d446d1519.mp3"
+          },
+          {
+            "newChar": "十",
+            "words": "十个",
+            "v": "/v/97b6af7e33a6a7bd70af97e90db4e2d3.mp3"
+          }
+        ]
+      },
+      {
+        "title": "b p m f",
+        "newChars": [
+          {
+            "newChar": "爸",
+            "words": "爸爸",
+            "v": "/v/e93c76df20c27f6e80529f311bf908c1.mp3"
+          },
+          {
+            "newChar": "妈",
+            "words": "妈妈",
+            "v": "/v/7a3c83605061cfdf9c7273df0ad86996.mp3"
+          }
+        ]
+      },
+      {
+        "title": "d t n l",
+        "newChars": [
+          {
+            "newChar": "马",
+            "words": "小马",
+            "v": "/v/e4a328bbfe75cae0c215f55ca59a7d9e.mp3"
+          },
+          {
+            "newChar": "土",
+            "words": "土地、土壤",
+            "v": "/v/06d1c190cec0ff5bc79a06dd646cba94.mp3"
+          },
+          {
+            "newChar": "不",
+            "words": "不用谢",
+            "v": "/v/698f490216b022339912cdea23796eae.mp3"
+          }
+        ]
+      },
+      {
+        "title": "g k h",
+        "newChars": [
+          {
+            "newChar": "画",
+            "words": "画画",
+            "v": "/v/6e0f76590498c6936e1d3dab6c949857.mp3"
+          },
+          {
+            "newChar": "打",
+            "words": "打篮球",
+            "v": "/v/415c856de2f6b0bc6f1f3967f4054b94.mp3"
+          }
+        ]
+      },
+      {
+        "title": "j q x",
+        "newChars": [
+          {
+            "newChar": "棋",
+            "words": "下棋",
+            "v": "/v/c80bb3de3757990a097c9d4cb274b8f9.mp3"
+          },
+          {
+            "newChar": "鸡",
+            "words": "公鸡、小鸡",
+            "v": "/v/fa1ca6fa3c9d125eff311cded6f96777.mp3"
+          }
+        ]
+      },
+      {
+        "title": "z c s",
+        "newChars": [
+          {
+            "newChar": "字",
+            "words": "生字、写字",
+            "v": "/v/2a0232463a53b4679b1c5333e2caed21.mp3"
+          },
+          {
+            "newChar": "词",
+            "words": "词语、组词",
+            "v": "/v/02ea0ed1af49582a8a2e219addf66164.mp3"
+          },
+          {
+            "newChar": "语",
+            "words": "语文",
+            "v": "/v/f79c651ef2a877ed1fd862a5aa3ef1b6.mp3"
+          },
+          {
+            "newChar": "句",
+            "words": "句号",
+            "v": "/v/7dedd9f91d07a0dd04b6c976f6937be6.mp3"
+          },
+          {
+            "newChar": "子",
+            "words": "孩子",
+            "v": "/v/ada464778bf89d28967f13b595827d12.mp3"
+          }
+        ]
+      },
+      {
+        "title": "zh ch sh r",
+        "newChars": [
+          {
+            "newChar": "桌",
+            "words": "桌子、书桌、课桌",
+            "v": "/v/4105f6e928e52de78b3aa17b06f07d11.mp3"
+          },
+          {
+            "newChar": "纸",
+            "words": "纸张、画画纸",
+            "v": "/v/10b76b737090d537aae49cde080b5ed1.mp3"
+          }
+        ]
+      },
+      {
+        "title": "语文园地二",
+        "newChars": [
+          {
+            "newChar": "文",
+            "words": "语文、文化",
+            "v": "/v/72afc2b624c02595412f4a9a9bd0fb6c.mp3"
+          },
+          {
+            "newChar": "数",
+            "words": "数学、数字",
+            "v": "/v/bb8ea562a1a5f01255a871fcd2f79ef0.mp3"
+          },
+          {
+            "newChar": "学",
+            "words": "学习、科学",
+            "v": "/v/48a2b5dbb4693c1b0e82cc0635885deb.mp3"
+          },
+          {
+            "newChar": "音",
+            "words": "声音",
+            "v": "/v/23cb12c7be41eb5b601b39529e1a7542.mp3"
+          },
+          {
+            "newChar": "乐",
+            "words": "音乐",
+            "v": "/v/93ad866fcce45b4dadf99c30ee1ebbb9.mp3"
+          }
+        ]
+      },
+      {
+        "title": "洗手歌",
+        "newChars": [
+          {
+            "newChar": "妹",
+            "words": "妹妹",
+            "v": "/v/a1ab0659d51f610e43b81402ce0f87a6.mp3"
+          },
+          {
+            "newChar": "奶",
+            "words": "奶奶",
+            "v": "/v/41a86eb5f8a28e4888076780199e49c6.mp3"
+          }
+        ]
+      },
+      {
+        "title": "欢迎台湾小朋友",
+        "newChars": [
+          {
+            "newChar": "小",
+            "words": "小孩、小朋友",
+            "v": "/v/17c2a414f2daa4e190273f8389e6a119.mp3"
+          },
+          {
+            "newChar": "桥",
+            "words": "天桥、长江大桥",
+            "v": "/v/27167e099e60b7a314734b1d865948f0.mp3"
+          },
+          {
+            "newChar": "台",
+            "words": "电视台、台湾",
+            "v": "/v/e4e228ee1fee004276e358548f4df262.mp3"
+          }
+        ]
+      },
+      {
+        "title": "月儿弯弯",
+        "newChars": [
+          {
+            "newChar": "雪",
+            "words": "下雪、暴风雪",
+            "v": "/v/13dc070674b5c050ebb8f5ccf1339ed5.mp3"
+          },
+          {
+            "newChar": "儿",
+            "words": "儿子、儿童",
+            "v": "/v/6c7eb6917e01baeb4d7878054b9f736a.mp3"
+          }
+        ]
+      },
+      {
+        "title": "家",
+        "newChars": [
+          {
+            "newChar": "白",
+            "words": "白色、白云",
+            "v": "/v/b1a20f88b027b2686da33b9c65c113e8.mp3"
+          },
+          {
+            "newChar": "草",
+            "words": "草地、草丛、小草",
+            "v": "/v/29d4684c0b12c2b3f1fb6bb9b98b35a2.mp3"
+          },
+          {
+            "newChar": "家",
+            "words": "家乡、老家",
+            "v": "/v/594764c173c43a79a109d6805296ce98.mp3"
+          },
+          {
+            "newChar": "是",
+            "words": "就是",
+            "v": "/v/baaee50ed535423547ed7db7688b7f11.mp3"
+          }
+        ]
+      },
+      {
+        "title": "过马路",
+        "newChars": [
+          {
+            "newChar": "车",
+            "words": "火车、小汽车、大卡车",
+            "v": "/v/2eafe1c476a7eb9aefae6ed611210102.mp3"
+          },
+          {
+            "newChar": "路",
+            "words": "马路、公路、泥巴路",
+            "v": "/v/8184b5f9cf2d08afc1270b366277e951.mp3"
+          },
+          {
+            "newChar": "灯",
+            "words": "路灯、霓虹灯",
+            "v": "/v/06c5055aebc110743be8d7409eb8195b.mp3"
+          },
+          {
+            "newChar": "走",
+            "words": "走路",
+            "v": "/v/f1968bdee911eba5fbb82c82c5496aae.mp3"
+          }
+        ]
+      },
+      {
+        "title": "秋天",
+        "newChars": [
+          {
+            "newChar": "秋",
+            "words": "秋天",
+            "v": "/v/c1bd8d7128379cee94004f49f648dc8c.mp3"
+          },
+          {
+            "newChar": "气",
+            "words": "天气、空气",
+            "v": "/v/5861d45e16f8266d4228279f60e49d1b.mp3"
+          },
+          {
+            "newChar": "了",
+            "words": "回家了、秋天来了",
+            "v": "/v/b62cc9aefdfc3b7049956733987f8f84.mp3"
+          },
+          {
+            "newChar": "树",
+            "words": "树木、松树",
+            "v": "/v/fa4b7ec01efaaedf0b9720ecd01400ee.mp3"
+          },
+          {
+            "newChar": "叶",
+            "words": "叶子、树叶",
+            "v": "/v/357fd5678ab0f04a370aa0c6c8e3f212.mp3"
+          },
+          {
+            "newChar": "片",
+            "words": "一片片",
+            "v": "/v/90dac7e72a12e05af232477c4f88d60c.mp3"
+          },
+          {
+            "newChar": "大",
+            "words": "大雁、大树",
+            "v": "/v/b310b0895171ffead62766913f3cfdad.mp3"
+          },
+          {
+            "newChar": "飞",
+            "words": "飞起来",
+            "v": "/v/3032fe401b89cfb0e7d2ec4abe16c3bd.mp3"
+          },
+          {
+            "newChar": "会",
+            "words": "开会",
+            "v": "/v/baca5d0234aa23bb13f03ff8920a69d9.mp3"
+          },
+          {
+            "newChar": "个",
+            "words": "一个",
+            "v": "/v/de13258530b2ed50400d3e5013341cde.mp3"
+          }
+        ]
+      },
+      {
+        "title": "小小的船",
+        "newChars": [
+          {
+            "newChar": "的",
+            "words": "我的家",
+            "v": "/v/fbf09281a4d25acb0f21d7f1e8327f5f.mp3"
+          },
+          {
+            "newChar": "船",
+            "words": "小船、轮船",
+            "v": "/v/c93bd9fc091eaa922c3d66a2d46ce5c6.mp3"
+          },
+          {
+            "newChar": "两",
+            "words": "两个、两头",
+            "v": "/v/75fad3ca74ca4c7b8db28b1c9e1a65d0.mp3"
+          },
+          {
+            "newChar": "头",
+            "words": "头脑",
+            "v": "/v/26056b85a46e132c183c044b726d2aff.mp3"
+          },
+          {
+            "newChar": "在",
+            "words": "在这里",
+            "v": "/v/51485c760521d21d14123e6d6cf5af82.mp3"
+          },
+          {
+            "newChar": "里",
+            "words": "里面",
+            "v": "/v/6a3a6a70e266ec2ec581ad8a6a685629.mp3"
+          },
+          {
+            "newChar": "看",
+            "words": "看见、看电影",
+            "v": "/v/1b8ea4d0161c6cac9345fee57572c135.mp3"
+          },
+          {
+            "newChar": "见",
+            "words": "看见",
+            "v": "/v/81e6abbd9edebb32aa94513717440964.mp3"
+          },
+          {
+            "newChar": "闪",
+            "words": "闪闪发光",
+            "v": "/v/6a13de3ebce69f9c452f2f997584240d.mp3"
+          },
+          {
+            "newChar": "星",
+            "words": "星星、火星",
+            "v": "/v/8682ab2a74a9796d1b9e881b0dde7e1b.mp3"
+          }
+        ]
+      },
+      {
+        "title": "江南",
+        "newChars": [
+          {
+            "newChar": "江",
+            "words": "长江",
+            "v": "/v/4ff3a7465457b2bc8776710dbbf94052.mp3"
+          },
+          {
+            "newChar": "南",
+            "words": "南方",
+            "v": "/v/2aad291814b3e06c274383e565461205.mp3"
+          },
+          {
+            "newChar": "可",
+            "words": "可以、可爱",
+            "v": "/v/1f5bbec6f95d9209c920e62c2124fce0.mp3"
+          },
+          {
+            "newChar": "采",
+            "words": "江南可采莲",
+            "v": "/v/27e0ad01eaa500f18d9bdf8fbb63b629.mp3"
+          },
+          {
+            "newChar": "莲",
+            "words": "莲花、莲蓬",
+            "v": "/v/3001b3b7f6dc87b7ec1a34aead52e971.mp3"
+          },
+          {
+            "newChar": "鱼",
+            "words": "鲤鱼、鲨鱼",
+            "v": "/v/c575392c10769d8acd9f4a93cf90f75c.mp3"
+          },
+          {
+            "newChar": "东",
+            "words": "东方",
+            "v": "/v/6d6c56b4636a789c8b961cbb252a4131.mp3"
+          },
+          {
+            "newChar": "西",
+            "words": "西瓜、西边",
+            "v": "/v/7942a1d764aebc07b0f3005a4470b83b.mp3"
+          },
+          {
+            "newChar": "北",
+            "words": "北方、北边",
+            "v": "/v/b23256e9a1466326486847ac45029cc7.mp3"
+          }
+        ]
+      },
+      {
+        "title": "四季",
+        "newChars": [
+          {
+            "newChar": "尖",
+            "words": "小大尖",
+            "v": "/v/5e0b3da033a9901d6481edcbd3bdfae6.mp3"
+          },
+          {
+            "newChar": "说",
+            "words": "说话",
+            "v": "/v/185a220a025517d924b719bfeb3f1c83.mp3"
+          },
+          {
+            "newChar": "春",
+            "words": "春天",
+            "v": "/v/a67a9a0ed44b7e74012b53f10b6c4d61.mp3"
+          },
+          {
+            "newChar": "青",
+            "words": "青蛙、青色",
+            "v": "/v/045d0503813df509e84c7d7d0584936e.mp3"
+          },
+          {
+            "newChar": "蛙",
+            "words": "青蛙",
+            "v": "/v/d96652649ab81ffff3bd3d5e348b8e08.mp3"
+          },
+          {
+            "newChar": "夏",
+            "words": "夏天",
+            "v": "/v/890ad08beba18862eb1f0bbd5617c456.mp3"
+          },
+          {
+            "newChar": "弯",
+            "words": "转弯",
+            "v": "/v/9a3bd000e78ac0184e347be41f030e1c.mp3"
+          },
+          {
+            "newChar": "皮",
+            "words": "顽皮",
+            "v": "/v/51b6d2a300e69ea8e697f8b05d95d9e7.mp3"
+          },
+          {
+            "newChar": "冬",
+            "words": "冬天",
+            "v": "/v/70e57bb8f1d47d2528321d4ef897f0db.mp3"
+          }
+        ]
+      },
+      {
+        "title": "我们做朋友",
+        "newChars": [
+          {
+            "newChar": "男",
+            "words": "男生",
+            "v": "/v/7e91033855dee95874c9581afbbe1af4.mp3"
+          },
+          {
+            "newChar": "女",
+            "words": "女生",
+            "v": "/v/d6a6bbf0646bc393bcbcdc0ff368a7b3.mp3"
+          },
+          {
+            "newChar": "开",
+            "words": "开心、开始",
+            "v": "/v/eba8b70fd15c9c6dca6e311e0f9f5e2b.mp3"
+          },
+          {
+            "newChar": "关",
+            "words": "关门、开关",
+            "v": "/v/dccf0a78e284f802624c4a78227e4f38.mp3"
+          },
+          {
+            "newChar": "正",
+            "words": "真正、正确",
+            "v": "/v/fb149570a7460b450574fdfe27faa5ea.mp3"
+          },
+          {
+            "newChar": "反",
+            "words": "相反",
+            "v": "/v/33274a87ed3727b024b88761ef8c39f0.mp3"
+          }
+        ]
+      },
+      {
+        "title": "画",
+        "newChars": [
+          {
+            "newChar": "远",
+            "words": "远方",
+            "v": "/v/b8c30f7519e0dc40160b2942e9338381.mp3"
+          },
+          {
+            "newChar": "有",
+            "words": "我有很多好朋友",
+            "v": "/v/1dbe686ebad65c9c7976bd6b90516d65.mp3"
+          },
+          {
+            "newChar": "色",
+            "words": "颜色",
+            "v": "/v/015264789d8569828ef887032116ae3d.mp3"
+          },
+          {
+            "newChar": "近",
+            "words": "距离很近",
+            "v": "/v/7c886453d2fb696b7cfc085755e9d798.mp3"
+          },
+          {
+            "newChar": "听",
+            "words": "听见",
+            "v": "/v/beefe7c5ad5388481d153c23a751fc12.mp3"
+          },
+          {
+            "newChar": "无",
+            "words": "虚无",
+            "v": "/v/44d421799071cc28c8a8eade9e33b808.mp3"
+          },
+          {
+            "newChar": "声",
+            "words": "声音",
+            "v": "/v/0a02ffd5125116cfab4837a0a79eadc1.mp3"
+          },
+          {
+            "newChar": "去",
+            "words": "回去",
+            "v": "/v/7d217b21baa508e472aa79d2dc045430.mp3"
+          },
+          {
+            "newChar": "还",
+            "words": "还在",
+            "v": "/v/cdc9a1b80f9b5447d805ebb796f7de75.mp3"
+          },
+          {
+            "newChar": "来",
+            "words": "回来",
+            "v": "/v/304028e9cc68a3ec2c4936120ba714c4.mp3"
+          }
+        ]
+      },
+      {
+        "title": "大小多少",
+        "newChars": [
+          {
+            "newChar": "多",
+            "words": "多少",
+            "v": "/v/d0b7d7dd3cb55763424fb9c06dffd03d.mp3"
+          },
+          {
+            "newChar": "少",
+            "words": "多少",
+            "v": "/v/0fb4f9fad5167db337286aa81472f7d4.mp3"
+          },
+          {
+            "newChar": "黄",
+            "words": "黄瓜",
+            "v": "/v/9cf4a307668405a0875aec30c0304bc4.mp3"
+          },
+          {
+            "newChar": "牛",
+            "words": "老黄牛",
+            "v": "/v/1f05f120cd32f19b701dfd5122d645d8.mp3"
+          },
+          {
+            "newChar": "只",
+            "words": "一只猫",
+            "v": "/v/82a45c0d65a43dd4f4cf19d28f069e70.mp3"
+          },
+          {
+            "newChar": "边",
+            "words": "天边",
+            "v": "/v/bf02913b22c212b8b7e80683c7e4c069.mp3"
+          },
+          {
+            "newChar": "鸭",
+            "words": "小鸭子",
+            "v": "/v/f99497731683d284dfecbef40fded4c3.mp3"
+          },
+          {
+            "newChar": "苹",
+            "words": "苹果",
+            "v": "/v/b36e150aeba8ddb44cb30d4610b996e3.mp3"
+          },
+          {
+            "newChar": "果",
+            "words": "水果",
+            "v": "/v/0bb83c3681b624e5f1faf85722dc0b75.mp3"
+          },
+          {
+            "newChar": "杏",
+            "words": "一堆杏子",
+            "v": "/v/670d49bd70f6caf458b966e1b1b75a0b.mp3"
+          },
+          {
+            "newChar": "桃",
+            "words": "桃子、桃树",
+            "v": "/v/0723f75be59f47d9d56a75d09ac3e17b.mp3"
+          }
+        ]
+      },
+      {
+        "title": "小书包",
+        "newChars": [
+          {
+            "newChar": "书",
+            "words": "书本、故事书",
+            "v": "/v/1720badaf6ad79f3ac2ba61277e26e4b.mp3"
+          },
+          {
+            "newChar": "包",
+            "words": "书包、小笼包",
+            "v": "/v/7a476a3d8324fac46aad0a5757d122a9.mp3"
+          },
+          {
+            "newChar": "尺",
+            "words": "直尺、尺子",
+            "v": "/v/fb31833027dbb30e0857bf3d3c3916fd.mp3"
+          },
+          {
+            "newChar": "作",
+            "words": "作业本",
+            "v": "/v/8e0c63474b7ea50ba20fcec6e22d5074.mp3"
+          },
+          {
+            "newChar": "业",
+            "words": "作业本",
+            "v": "/v/179a96c82915c8503e53673da8ca0c7a.mp3"
+          },
+          {
+            "newChar": "本",
+            "words": "作业本",
+            "v": "/v/81edca7b72627c12954894a7f286272a.mp3"
+          },
+          {
+            "newChar": "笔",
+            "words": "铅笔",
+            "v": "/v/fdbd38d5fbc8e61d2e3697e3a99af102.mp3"
+          },
+          {
+            "newChar": "刀",
+            "words": "转笔刀",
+            "v": "/v/4e2202e0d7fcdd824685db1088bd9551.mp3"
+          },
+          {
+            "newChar": "课",
+            "words": "课文、课桌",
+            "v": "/v/67343bbe0fffd9027729fc00b5dbd545.mp3"
+          },
+          {
+            "newChar": "早",
+            "words": "早上好",
+            "v": "/v/e40ecb6dab71eb0bfbcd1382d29c828f.mp3"
+          },
+          {
+            "newChar": "校",
+            "words": "学校、校园",
+            "v": "/v/593c44dd59c9defff348ca0ca1f25f8f.mp3"
+          }
+        ]
+      },
+      {
+        "title": "日月明",
+        "newChars": [
+          {
+            "newChar": "明",
+            "words": "明天",
+            "v": "/v/29dd0b9d7cb1a4aa1c08d052efbc12c2.mp3"
+          },
+          {
+            "newChar": "力",
+            "words": "力量、力气",
+            "v": "/v/06f9fe7052f49502f40427b1eb888f02.mp3"
+          },
+          {
+            "newChar": "尘",
+            "words": "小土尘",
+            "v": "/v/29017fde6abf0eca0ca240d57bf07725.mp3"
+          },
+          {
+            "newChar": "从",
+            "words": "双人从",
+            "v": "/v/93b29a3b9eb4691e5470e03dd0eb517e.mp3"
+          },
+          {
+            "newChar": "众",
+            "words": "三人众",
+            "v": "/v/5699f541b9bc059e1a3a3dfbc9017ec5.mp3"
+          },
+          {
+            "newChar": "木",
+            "words": "木头",
+            "v": "/v/11e6643bb9a4a0608bc50c94511bf54b.mp3"
+          },
+          {
+            "newChar": "林",
+            "words": "双木林、树林",
+            "v": "/v/f106559b6068ce5c8cf9609653bcaf94.mp3"
+          },
+          {
+            "newChar": "森",
+            "words": "三木森、森林",
+            "v": "/v/42a9f82201f3b34d0f3edc9b29ef8025.mp3"
+          },
+          {
+            "newChar": "条",
+            "words": "条件",
+            "v": "/v/9296b52ef41737d30a1512b32227d6a6.mp3"
+          },
+          {
+            "newChar": "心",
+            "words": "开心、伤心",
+            "v": "/v/04f197db50e61726b42fe8a6e966aa3d.mp3"
+          }
+        ]
+      },
+      {
+        "title": "升国旗",
+        "newChars": [
+          {
+            "newChar": "升",
+            "words": "升国旗",
+            "v": "/v/cb24e8845a870ac4cd9ab2978ee52257.mp3"
+          },
+          {
+            "newChar": "国",
+            "words": "中国、国家",
+            "v": "/v/769b2e00e55a079564e4f219c4227fee.mp3"
+          },
+          {
+            "newChar": "旗",
+            "words": "国旗、五星红旗",
+            "v": "/v/12f46717338be800f78364454ad6d8e7.mp3"
+          },
+          {
+            "newChar": "中",
+            "words": "中国",
+            "v": "/v/ea32304770924f87d9cb0b89bc79ef65.mp3"
+          },
+          {
+            "newChar": "红",
+            "words": "红色",
+            "v": "/v/9da25f695cfc2d5902df4d069dbab6b4.mp3"
+          },
+          {
+            "newChar": "歌",
+            "words": "国歌、唱歌",
+            "v": "/v/6af278e24abd82aa59d2c6e16724ebe8.mp3"
+          },
+          {
+            "newChar": "起",
+            "words": "起来、起立",
+            "v": "/v/2600f7c5520d848ee5b2f32b102a01a6.mp3"
+          },
+          {
+            "newChar": "么",
+            "words": "什么",
+            "v": "/v/7ac4c43ced2c830f17d736a8612880e0.mp3"
+          },
+          {
+            "newChar": "美",
+            "words": "美丽、美国",
+            "v": "/v/9915b10c4191b782d5a76dc6d0799195.mp3"
+          },
+          {
+            "newChar": "丽",
+            "words": "美丽",
+            "v": "/v/9041750ad8f0ba8c323d290e12f05361.mp3"
+          },
+          {
+            "newChar": "立",
+            "words": "起立",
+            "v": "/v/8ce2132557ef7da5a1f1779ecb5bd2e7.mp3"
+          }
+        ]
+      },
+      {
+        "title": "语文园地五",
+        "newChars": [
+          {
+            "newChar": "午",
+            "words": "睡午觉、中午",
+            "v": "/v/5f9771040a5fcc5e9851dd8e3ddf87ea.mp3"
+          },
+          {
+            "newChar": "晚",
+            "words": "晚上",
+            "v": "/v/670d519b43c2be7b69f14a9cbfd9340b.mp3"
+          },
+          {
+            "newChar": "昨",
+            "words": "昨天",
+            "v": "/v/894e16c8d4c4f399c0a23ea828bb063e.mp3"
+          },
+          {
+            "newChar": "今",
+            "words": "今天",
+            "v": "/v/a1722ed550ea3ee44ae924b1b3363b45.mp3"
+          },
+          {
+            "newChar": "年",
+            "words": "过年、新年",
+            "v": "/v/a180f77db0915ad65cb55f817c4d65f8.mp3"
+          }
+        ]
+      },
+      {
+        "title": "影子",
+        "newChars": [
+          {
+            "newChar": "影",
+            "words": "影子",
+            "v": "/v/95990e723850baed86f4fbb2daffe29d.mp3"
+          },
+          {
+            "newChar": "前",
+            "words": "前后",
+            "v": "/v/29d19266b36ca9ac14b20b9538870834.mp3"
+          },
+          {
+            "newChar": "后",
+            "words": "后面",
+            "v": "/v/28cc56e8640d6d6e5d98308c24a764de.mp3"
+          },
+          {
+            "newChar": "黑",
+            "words": "天黑了",
+            "v": "/v/0b5b87f97cf6728b6f5f1e2cd2fff70c.mp3"
+          },
+          {
+            "newChar": "狗",
+            "words": "小狗",
+            "v": "/v/9b651974c25fc7457991453df6aec7e7.mp3"
+          },
+          {
+            "newChar": "左",
+            "words": "左边",
+            "v": "/v/a1e150ec2de8e81f4f2ea2f3f6ad36ae.mp3"
+          },
+          {
+            "newChar": "右",
+            "words": "右边",
+            "v": "/v/ab70b7d39dbf717e2323ca6e31a25a08.mp3"
+          },
+          {
+            "newChar": "它",
+            "words": "宝盖头的它",
+            "v": "/v/a2b5150d2507ad60b998e3d91a071ea2.mp3"
+          },
+          {
+            "newChar": "好",
+            "words": "好朋友",
+            "v": "/v/c338fedef20ed9c32250a6c7c1dc2491.mp3"
+          },
+          {
+            "newChar": "朋",
+            "words": "朋友",
+            "v": "/v/e18424caebf042857e20b507b15eda12.mp3"
+          },
+          {
+            "newChar": "友",
+            "words": "朋友",
+            "v": "/v/5b6e01504c0ae373e5adcea101afe106.mp3"
+          }
+        ]
+      },
+      {
+        "title": "比尾巴",
+        "newChars": [
+          {
+            "newChar": "比",
+            "words": "比一比",
+            "v": "/v/c3e152a97a964b2f5d1c8271b3be5341.mp3"
+          },
+          {
+            "newChar": "尾",
+            "words": "尾巴",
+            "v": "/v/97bc63c9bea60bea6b92b59e6e0c4da7.mp3"
+          },
+          {
+            "newChar": "巴",
+            "words": "尾巴",
+            "v": "/v/5480ee475919d0d9bb50ee6412af5ec2.mp3"
+          },
+          {
+            "newChar": "谁",
+            "words": "是谁",
+            "v": "/v/4206988e09f5e8d63926146af82bf9db.mp3"
+          },
+          {
+            "newChar": "长",
+            "words": "长城",
+            "v": "/v/1c7bf07f3ca5950698b33222c8e64aff.mp3"
+          },
+          {
+            "newChar": "短",
+            "words": "短短的",
+            "v": "/v/b99ba3356e92cae8433d86b0a4e1176e.mp3"
+          },
+          {
+            "newChar": "把",
+            "words": "一把伞",
+            "v": "/v/9bd6cb5515826ea392951c70a578ed7c.mp3"
+          },
+          {
+            "newChar": "伞",
+            "words": "雨伞",
+            "v": "/v/f4205f674e59924f92b0cdb2f1c7219e.mp3"
+          },
+          {
+            "newChar": "兔",
+            "words": "小白兔",
+            "v": "/v/a7397462177309ab3d6d943b58858445.mp3"
+          },
+          {
+            "newChar": "最",
+            "words": "最大",
+            "v": "/v/bbc0e120a626bf31cf18c17a9665475e.mp3"
+          },
+          {
+            "newChar": "公",
+            "words": "公鸡",
+            "v": "/v/66063bfb70866f83c8223d1d918d3bf8.mp3"
+          }
+        ]
+      },
+      {
+        "title": "青蛙写诗",
+        "newChars": [
+          {
+            "newChar": "写",
+            "words": "写字、写诗",
+            "v": "/v/aceb92627dcb68726783056e9d6fec62.mp3"
+          },
+          {
+            "newChar": "诗",
+            "words": "诗歌、诗人",
+            "v": "/v/3f5e974c2b53baa87141534ef3d91338.mp3"
+          },
+          {
+            "newChar": "点",
+            "words": "一点点",
+            "v": "/v/e1107fb3997719b780684243523cd3cd.mp3"
+          },
+          {
+            "newChar": "要",
+            "words": "我要一个苹果",
+            "v": "/v/5e9f422b83eea64be845dddaa5da9df0.mp3"
+          },
+          {
+            "newChar": "过",
+            "words": "过来",
+            "v": "/v/904a12071092b6b7261b8942d3dc63e0.mp3"
+          },
+          {
+            "newChar": "给",
+            "words": "给你一个苹果",
+            "v": "/v/22597ba4497bc129a9b4fe292b80d7f8.mp3"
+          },
+          {
+            "newChar": "当",
+            "words": "当然",
+            "v": "/v/1374ee99ec1831c437a7b9b072684eb0.mp3"
+          },
+          {
+            "newChar": "串",
+            "words": "一串串",
+            "v": "/v/d21a4f11cb45f34bc2638d6f5da328cf.mp3"
+          },
+          {
+            "newChar": "们",
+            "words": "我们",
+            "v": "/v/b5cbee3005006e47adcacea00a645cec.mp3"
+          },
+          {
+            "newChar": "以",
+            "words": "以后、以前",
+            "v": "/v/adaeade9346e5939bb0bb8eadc981ac1.mp3"
+          },
+          {
+            "newChar": "成",
+            "words": "成语",
+            "v": "/v/1a9666ea4bb76ef330d4836650953f90.mp3"
+          }
+        ]
+      },
+      {
+        "title": "雨点儿",
+        "newChars": [
+          {
+            "newChar": "数",
+            "words": "数星星",
+            "v": "/v/1893b838b47b8d96c6a795ba2ff66aaa.mp3"
+          },
+          {
+            "newChar": "彩",
+            "words": "彩色、彩虹",
+            "v": "/v/7678fba0d119521ebeb96d6c5904193d.mp3"
+          },
+          {
+            "newChar": "半",
+            "words": "一半",
+            "v": "/v/7b2a47b64beb10027ef3e5dd225f713b.mp3"
+          },
+          {
+            "newChar": "空",
+            "words": "空气、天空",
+            "v": "/v/322850d09936fc8735ed3f2d67946ff7.mp3"
+          },
+          {
+            "newChar": "问",
+            "words": "问题",
+            "v": "/v/9d2b6df75e82dddeb7e41947d001d108.mp3"
+          },
+          {
+            "newChar": "到",
+            "words": "你要到哪里去",
+            "v": "/v/c0babe261dab518f9e307d43a0935de5.mp3"
+          },
+          {
+            "newChar": "方",
+            "words": "方向、地方",
+            "v": "/v/5f56b5d633586004ab2526a7d48eba48.mp3"
+          },
+          {
+            "newChar": "没",
+            "words": "没有",
+            "v": "/v/f7093e5035078e8a496bd268c5e10f2b.mp3"
+          },
+          {
+            "newChar": "更",
+            "words": "草更绿了",
+            "v": "/v/7784f56b18b8f85d6191db59488490a5.mp3"
+          },
+          {
+            "newChar": "绿",
+            "words": "绿色",
+            "v": "/v/35e981effe92f077cc76d9ed16cec721.mp3"
+          },
+          {
+            "newChar": "出",
+            "words": "出来",
+            "v": "/v/fb20e5b3c31f425d2b794b32b2de3934.mp3"
+          },
+          {
+            "newChar": "长",
+            "words": "长大了",
+            "v": "/v/9ae1041d010705b92e5df45408f79d32.mp3"
+          }
+        ]
       }
     ]
   },
